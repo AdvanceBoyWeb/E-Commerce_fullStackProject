@@ -5,7 +5,6 @@
 - Maintaining sale history
 - Adding and managing products
 - User Friendly
-- For Implemention of Generic Servlets in Java
 - This is a Mini-project developed using Java, Springbot, HTML5, Thymeleaf, Bootstrap. 
 
 <span style="color:blue">**Admin Have Following Access for this E-Commerce website:-**</span>
@@ -40,7 +39,7 @@
 - Maven Support
 
 3. Database used
-- Sql/MySql
+- MySql
 
 
 Note:- This is a basic Project so we have not think about the security and we have only implemented this project using the generic servlet
