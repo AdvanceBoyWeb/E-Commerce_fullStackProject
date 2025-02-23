@@ -29,12 +29,13 @@
 - Html
 - Css
 - Javascript
+- Thymeleaf
 - Bootstrap 4
 
 2. Back-End Development
 - Java
-- JDBC
-- Servlet
+- Springboot
+- JPA
 - Hibernate
 - Maven Support
 
